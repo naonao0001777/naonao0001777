@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=naonao0001777)  
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=naonao0001777&repo=homebridge-switchbot-for-mac)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777)  
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&layout=compact)  
 [![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
