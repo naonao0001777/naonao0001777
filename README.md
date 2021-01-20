@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=naonao0001777&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&hide=javascript,html)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&hide=javascript,html)-->
 
-
-<!--[![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
+[![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
