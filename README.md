@@ -1,3 +1,4 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/naonao0001777/naonao0001777)
 ### Hi there 👋
 
 <!--
