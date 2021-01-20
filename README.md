@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...DevOps(SCM)
-- 🌱 I’m currently learning ...Python, Ruby on Rails, Vue, Jenkins, Automate Testing, Automate Build...and so on
+- 🔭 I’m currently working on ...SCM
+- 🌱 I’m currently learning ...Python, Ruby on Rails, Vue, Jenkins, DevOps, Automate Testing, Automate Build...and so on
 - ⚡ Fun fact: ...make a tools for help a project
 
 <!--
