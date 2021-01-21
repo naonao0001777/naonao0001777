@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=naonao0001777&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&layout=compact&hide=html)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&layout=compact&hide=html)-->
 
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naonao0001777&hide=javascript)-->
 
