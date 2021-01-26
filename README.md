@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...SCM
-- 🌱 I’m currently learning ...Python, Ruby on Rails, Vue, CI/CD, DevOps...and so on
+- 🌱 I’m currently learning ...Python, Ruby on Rails, Vue, CI/CD, DevOps ,SRE...and so on
 - ⚡ Fun fact: ...make a tools for help a project
 
 <!--
