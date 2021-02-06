@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...SCM
 - 🌱 I’m currently learning ...Python, Ruby on Rails, Vue, CI/CD, DevOps ,SRE...and so on
-- ⚡ Fun fact: ...make a tools for help a project
+- ⚡ Fun fact: ...make a tools for help a project and my work:D
 
 <!--
 - � I’m looking to collaborate on ...
