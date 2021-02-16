@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### contacts
+[Forkwell](https://portfolio.forkwell.com/)  
+[Qiita](https://qiita.com/salty_special)
