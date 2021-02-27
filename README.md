@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/naonao0001777/naonao0001777)
 <p align="left"> 
   <a href="https://twitter.com/salty_special">
-    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
+    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
   </a>
   <a href="https://qiita.com/salty_special">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
