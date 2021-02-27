@@ -6,6 +6,9 @@
   <a href="https://qiita.com/salty_special">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
+  <a href="https://stackoverflow.com/users/15296861/nao">
+  <img alt="stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />
+  </a> 
 </p>
 
 ### Hi there 👋
