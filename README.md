@@ -1,4 +1,16 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/naonao0001777/naonao0001777)
+<p align="left"> 
+  <a href="https://twitter.com/salty_special">
+    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
+  </a>
+  <a href="https://qiita.com/salty_special">
+    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a>
+  <a href="https://portfolio.forkwell.com/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--
@@ -24,5 +36,4 @@ Here are some ideas to get you started:
 
 
 ### contacts
-[Forkwell](https://portfolio.forkwell.com/)  
-[Qiita](https://qiita.com/salty_special)
+[Forkwell]()  
