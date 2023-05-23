@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/naonao0001777/naonao0001777/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
-```
-
-    
