@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...SCM(SRE?DevOps? or just be operator?...all..?)
-- 🌱 I’m currently learning ...PHP, jQuery, React, TypeScript, Bootstrap, Bulma, Docker, CI/CD, DevOps...and so on
-- ⚡ Fun fact: ...make a website for me or for friend:D
+- 🔭 I’m currently working on ...start up corp as a developer or scrummaster.
+- 🌱 I’m currently learning ...Ruby(on Rails), PHP, React, TypeScript, Bulma, Docker, DevOps...and so on
+- ⚡ Fun fact: ...make an web application for ourselves :D
 
 <!--
 - � I’m looking to collaborate on ...
