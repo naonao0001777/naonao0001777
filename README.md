@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...start up corp as a developer or scrummaster.
+- 🔭 I’m currently working on ...start up corp as a Ruby on Rails developer, CRE, SRE.
 - 🌱 I’m currently learning ...Ruby(on Rails), PHP, React, TypeScript, Bulma, Docker, DevOps...and so on
 - ⚡ Fun fact: ...make an web application for ourselves :D
 
