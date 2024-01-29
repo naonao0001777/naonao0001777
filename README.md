@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...start up corp as a Ruby on Rails developer.
 - 🌱 I’m currently learning ...Ruby(on Rails), PHP, React, TypeScript, Bulma, Docker, Agile...and so on
-- ⚡ Fun fact: ...make an web application for ourselves :D
+- ⚡ Fun fact: i am a gamer. i like playing Fallguys and Zelda. :D
+- 📚 Books crrently i reed.
+  - プリンシプルオブプログラミング
+  - アジャイルに困った時に読む本
+  - 世界一流エンジニア思考法
+  - プロダクトマネジメントのすべて
 
 <!--
 - � I’m looking to collaborate on ...
