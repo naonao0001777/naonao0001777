@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   - アジャイルに困った時に読む本
   - 世界一流エンジニア思考法
   - プロダクトマネジメントのすべて
+  - エンジニアリング組織論への招待
 
 <!--
 - � I’m looking to collaborate on ...
