@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...start up corp as a Ruby on Rails developer.
 - 🌱 I’m currently learning ...Ruby(on Rails), PHP, React, TypeScript, Bulma, Agile, Architecture, Programming...and so on
 - ⚡ Fun fact: i am a gamer. i like playing Fallguys and Zelda. :D
-- 📚 Books crrently i reed.
+- 📚 Books recently i read.
   - プリンシプルオブプログラミング
   - アジャイルに困った時に読む本
   - 世界一流エンジニア思考法
