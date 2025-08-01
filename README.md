@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...RoR, PHP, React, TypeScript, Bulma, Agile, Architecture...and so on
 - ⚡ Fun fact: i am a gamer. i like playing Fallguys and Zelda. :D
 - 📚 Books recently i read.
-  - 達人に学ぶDB設計徹底指南書
-  - 世界一流エンジニア思考法
   - プロダクトマネジメントのすべて
   - エンジニアリング組織論への招待
-  - パーフェクトRuby on Rails
+  - ソフトウェアアーキテクチャの基礎
 
 <!--
 - � I’m looking to collaborate on ...
