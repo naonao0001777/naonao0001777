@@ -16,6 +16,9 @@ Here are some ideas to get you started:
   - プロダクトマネジメントのすべて
   - エンジニアリング組織論への招待
   - ソフトウェアアーキテクチャの基礎
+  - SOFT SKILLS
+  - アーキテクトの教科書
+  - エリック・エヴァンスのドメイン駆動設計
 
 <!--
 - � I’m looking to collaborate on ...
