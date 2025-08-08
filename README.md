@@ -10,8 +10,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...start up corp as a Ruby on Rails developer.
-- 🌱 I’m currently learning ...RoR, PHP, React, TypeScript, Bulma, Agile, Architecture...and so on
-- ⚡ Fun fact: i am a gamer. i like playing Fallguys and Zelda. :D
+- ⚡ Fun fact: i am a gamer. i like playing Fallguys.
 - 📚 Books recently i read.
   - プロダクトマネジメントのすべて
   - エンジニアリング組織論への招待
