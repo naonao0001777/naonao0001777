@@ -9,8 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...start up corp as a Ruby on Rails developer.
-- ⚡ Fun fact: i am a gamer. i like playing Fallguys.
+- 📫 Fun fact: i like playing Fallguys.
 - 📚 Books recently i read.
   - プロダクトマネジメントのすべて
   - エンジニアリング組織論への招待
