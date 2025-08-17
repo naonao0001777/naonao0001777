@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/naonao0001777/naonao0001777)
 <p align="left"> 
 </p>
-<a href="https://naonao0001777.github.io/sakanalover.com/"><img width="60" height="60" alt="ナゾノクサピクセル" src="https://github.com/user-attachments/assets/405415c1-6a50-4005-8273-69817e64b040" /></a>
+<a href="https://naonao0001777.github.io/sakanalover.com/" target="_blank" rel="noopener noreferrer"><img width="60" height="60" alt="ナゾノクサピクセル" src="https://github.com/user-attachments/assets/405415c1-6a50-4005-8273-69817e64b040" /></a>
 
 ### Hi there 👋
 
