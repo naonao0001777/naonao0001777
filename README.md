@@ -9,7 +9,6 @@
 
 Here are some ideas to get you started:
 -->
-- 📫 Fun fact: i like playing Fallguys.
 - 📚 Books recently i read.
   - プロダクトマネジメントのすべて
   - エンジニアリング組織論への招待
